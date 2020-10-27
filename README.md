@@ -1,0 +1,2 @@
+# InfoCore
+A reuseble framework 
